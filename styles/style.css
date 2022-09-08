@@ -1,9 +1,5 @@
 /* Простите! Я только увидела комменты в коде :) Думала, что все в тексте общего комментария написано */
 
-* {
-  border: 1px solid red;
-}
-
 .page {
   min-width: 1100px;
   /* мы ещё не умеем делать мобильную версию сайта, */
@@ -292,19 +288,6 @@
 }
 
 /*Footer */
-
-.footer__columns,
-.footer__column_content_copyright,
-.logo_place_footer,
-.footer__author,
-.footer__column-links,
-.footer__column-link,
-.footer__column-heading,
-.footer__column-link,
-.footer__social-icon {
-  border: 1px solid red;
-  ;
-}
 
 .footer {
   min-height: 350px;
