@@ -42,6 +42,7 @@
 }
 
 .header__subtitle {
+  margin: 0;
   font-size: 18px;
   line-height: 25px;
   font-weight: normal;
@@ -115,12 +116,12 @@
 }
 
 .two-columns__paragraph {
-  margin-bottom: 0;
-  row-gap: 30px;
+  margin: 0;
+  margin-bottom: 30px;
 }
 
-.two-columns__paragraph:first-child {
-  margin-top: 0;
+.two-columns__paragraph:last-child {
+  margin-bottom: 0;
 }
 
 /*Digits Block */
