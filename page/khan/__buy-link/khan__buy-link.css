@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .khan__buy-link {
     margin: 0;
     margin-left: 48px;
@@ -6,4 +7,14 @@
     line-height: 42px;
     font-size: 30px;
     font-weight: normal;
+=======
+.khan__buy-link {
+    margin: 0;
+    margin-left: 48px;
+    text-decoration: none;
+    color: #2f80ed;
+    line-height: 42px;
+    font-size: 30px;
+    font-weight: normal;
+>>>>>>> f0dc034faaf3e0ba711813c202062aaaef0c5b3c
 }

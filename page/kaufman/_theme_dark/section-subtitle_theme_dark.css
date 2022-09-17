@@ -1,7 +1,16 @@
+<<<<<<< HEAD
 .section-subtitle_theme_dark {
     max-width: 60%;
     color: white;
     line-height: 34px;
     font-size: 24px;
     font-weight: normal;
+=======
+.section-subtitle_theme_dark {
+    max-width: 60%;
+    color: white;
+    line-height: 34px;
+    font-size: 24px;
+    font-weight: normal;
+>>>>>>> f0dc034faaf3e0ba711813c202062aaaef0c5b3c
 }

@@ -1,7 +1,16 @@
+<<<<<<< HEAD
 .footer__author {
     margin: 18px 0;
     color: white;
     line-height: 25px;
     font-size: 18px;
     font-weight: normal;
+=======
+.footer__author {
+    margin: 18px 0;
+    color: white;
+    line-height: 25px;
+    font-size: 18px;
+    font-weight: normal;
+>>>>>>> f0dc034faaf3e0ba711813c202062aaaef0c5b3c
 }

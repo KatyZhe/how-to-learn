@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 @keyframes rotation {
     from {
         transform: rotate(0deg);
@@ -11,4 +12,19 @@
 .kaufman__triangle,
 .header__square-pic {
     animation: rotation 20s linear infinite;
+=======
+@keyframes rotation {
+    from {
+        transform: rotate(0deg);
+    }
+
+    to {
+        transform: rotate(360deg);
+    }
+}
+
+.kaufman__triangle,
+.header__square-pic {
+    animation: rotation 20s linear infinite;
+>>>>>>> f0dc034faaf3e0ba711813c202062aaaef0c5b3c
 }

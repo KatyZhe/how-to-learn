@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .video__iframe {
     margin-right: 20px;
     z-index: 1;
@@ -5,4 +6,13 @@
 
 .video__frame:last-child {
     margin-right: 0;
+=======
+.video__iframe {
+    margin-right: 20px;
+    z-index: 1;
+}
+
+.video__frame:last-child {
+    margin-right: 0;
+>>>>>>> f0dc034faaf3e0ba711813c202062aaaef0c5b3c
 }

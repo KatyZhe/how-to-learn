@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .header__main-illustration {
     width: 765px;
     height: 608px;
@@ -5,4 +6,13 @@
     bottom: 0;
     right: 0;
     z-index: 1;
+=======
+.header__main-illustration {
+    width: 765px;
+    height: 608px;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    z-index: 1;
+>>>>>>> f0dc034faaf3e0ba711813c202062aaaef0c5b3c
 }

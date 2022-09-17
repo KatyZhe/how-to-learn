@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .header {
     height: 100vh;
     min-height: 600px;
@@ -8,4 +9,16 @@
     background-color: #f2f2f2;
     position: relative;
     overflow: hidden;
+=======
+.header {
+    height: 100vh;
+    min-height: 600px;
+    max-height: 756px;
+    /* выше установили ограничения для секции */
+    display: flex;
+    align-items: center;
+    background-color: #f2f2f2;
+    position: relative;
+    overflow: hidden;
+>>>>>>> f0dc034faaf3e0ba711813c202062aaaef0c5b3c
 }

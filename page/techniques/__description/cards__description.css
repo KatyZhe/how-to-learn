@@ -1,7 +1,16 @@
+<<<<<<< HEAD
 .cards__description {
     margin: 0;
     margin: 16px 0 0;
     line-height: 23px;
     font-size: 18px;
     font-weight: normal;
+=======
+.cards__description {
+    margin: 0;
+    margin: 16px 0 0;
+    line-height: 23px;
+    font-size: 18px;
+    font-weight: normal;
+>>>>>>> f0dc034faaf3e0ba711813c202062aaaef0c5b3c
 }

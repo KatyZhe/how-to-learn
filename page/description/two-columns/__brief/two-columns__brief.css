@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .two-columns__brief {
     margin: 0;
     width: 175px;
@@ -5,4 +6,13 @@
     line-height: 1.2;
     font-size: 18px;
     font-weight: normal;
+=======
+.two-columns__brief {
+    margin: 0;
+    width: 175px;
+    color: #2f80ed;
+    line-height: 1.2;
+    font-size: 18px;
+    font-weight: normal;
+>>>>>>> f0dc034faaf3e0ba711813c202062aaaef0c5b3c
 }

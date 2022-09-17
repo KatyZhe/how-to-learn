@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .feynman__title {
     margin: 0;
     margin: auto;
@@ -8,4 +9,16 @@
     font-size: 120px;
     font-weight: 600;
     z-index: 1;
+=======
+.feynman__title {
+    margin: 0;
+    margin: auto;
+    padding-top: 100px;
+    max-width: 648px;
+    text-align: center;
+    line-height: 1.15;
+    font-size: 120px;
+    font-weight: 600;
+    z-index: 1;
+>>>>>>> f0dc034faaf3e0ba711813c202062aaaef0c5b3c
 }

@@ -1,5 +1,12 @@
+<<<<<<< HEAD
 .video__iframes {
     margin: 0 auto;
     display: flex;
     justify-content: center;
+=======
+.video__iframes {
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+>>>>>>> f0dc034faaf3e0ba711813c202062aaaef0c5b3c
 }

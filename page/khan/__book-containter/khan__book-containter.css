@@ -1,6 +1,14 @@
+<<<<<<< HEAD
 .khan__book-containter {
     display: flex;
     justify-content: flex-start;
     max-height: 608px;
     overflow: hidden;
+=======
+.khan__book-containter {
+    display: flex;
+    justify-content: flex-start;
+    max-height: 608px;
+    overflow: hidden;
+>>>>>>> f0dc034faaf3e0ba711813c202062aaaef0c5b3c
 }

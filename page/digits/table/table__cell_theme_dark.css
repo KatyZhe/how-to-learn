@@ -1,6 +1,14 @@
+<<<<<<< HEAD
 .table__cell_theme_dark {
     width: 200px;
     color: white;
     margin-right: 0;
     margin-top: 80px;
+=======
+.table__cell_theme_dark {
+    width: 200px;
+    color: white;
+    margin-right: 0;
+    margin-top: 80px;
+>>>>>>> f0dc034faaf3e0ba711813c202062aaaef0c5b3c
 }

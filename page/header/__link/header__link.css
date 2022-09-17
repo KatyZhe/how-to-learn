@@ -1,7 +1,16 @@
+<<<<<<< HEAD
 .header__link {
     color: #2f80ed;
     text-decoration: none;
     font-size: 18px;
     line-height: 25px;
     font-weight: normal;
+=======
+.header__link {
+    color: #2f80ed;
+    text-decoration: none;
+    font-size: 18px;
+    line-height: 25px;
+    font-weight: normal;
+>>>>>>> f0dc034faaf3e0ba711813c202062aaaef0c5b3c
 }

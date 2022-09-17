@@ -1,6 +1,14 @@
+<<<<<<< HEAD
 .footer__columns {
     display: flex;
     justify-content: space-between;
     width: 90%;
     margin: 60px auto 40px;
+=======
+.footer__columns {
+    display: flex;
+    justify-content: space-between;
+    width: 90%;
+    margin: 60px auto 40px;
+>>>>>>> f0dc034faaf3e0ba711813c202062aaaef0c5b3c
 }
