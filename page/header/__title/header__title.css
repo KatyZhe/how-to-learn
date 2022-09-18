@@ -1,20 +1,9 @@
-<<<<<<< HEAD
 .header__title {
-    margin: 0;
-    max-width: 730px;
-    margin-left: 64px;
-    z-index: 2;
-    font-size: 102px;
-    line-height: 96px;
-    font-weight: 600;
-=======
-.header__title {
-    margin: 0;
-    max-width: 730px;
-    margin-left: 64px;
-    z-index: 2;
-    font-size: 102px;
-    line-height: 96px;
-    font-weight: 600;
->>>>>>> f0dc034faaf3e0ba711813c202062aaaef0c5b3c
+  margin: 0;
+  max-width: 730px;
+  margin-left: 64px;
+  z-index: 2;
+  font-size: 102px;
+  line-height: 96px;
+  font-weight: 600;
 }

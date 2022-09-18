@@ -1,14 +1,6 @@
-<<<<<<< HEAD
 .footer__column-links {
-    display: flex;
-    flex-direction: column;
-    align-content: space-between;
-    margin: 20px 0 16px;
-=======
-.footer__column-links {
-    display: flex;
-    flex-direction: column;
-    align-content: space-between;
-    margin: 20px 0 16px;
->>>>>>> f0dc034faaf3e0ba711813c202062aaaef0c5b3c
+  display: flex;
+  flex-direction: column;
+  align-content: space-between;
+  margin: 20px 0 16px;
 }

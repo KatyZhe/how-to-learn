@@ -1,12 +1,4 @@
-<<<<<<< HEAD
 .techniques {
-    max-width: 80%;
-    margin: auto;
-    margin-bottom: 0;
-=======
-.techniques {
-    max-width: 80%;
-    margin: auto;
-    margin-bottom: 0;
->>>>>>> f0dc034faaf3e0ba711813c202062aaaef0c5b3c
+  max-width: 80%;
+  margin: 0 auto;
 }

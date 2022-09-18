@@ -1,12 +1,5 @@
-<<<<<<< HEAD
 .footer {
-    min-height: 350px;
-    background-color: #1f1f1f;
-    display: flex;
-=======
-.footer {
-    min-height: 350px;
-    background-color: #1f1f1f;
-    display: flex;
->>>>>>> f0dc034faaf3e0ba711813c202062aaaef0c5b3c
+  min-height: 350px;
+  background-color: #1f1f1f;
+  display: flex;
 }
