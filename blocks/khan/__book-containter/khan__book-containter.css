@@ -1,0 +1,10 @@
+.khan__book-container {
+  display: flex;
+  justify-content: flex-start;
+<<<<<<< HEAD
+  min-height: 608px;
+=======
+  max-height: 608px;
+  overflow: hidden;
+>>>>>>> f32cbfb06f361887611fc5ab17463fff340b7835
+}
