@@ -94,12 +94,12 @@
 
 /* Modificators */
 
-@import url(../blocks/logo/_place/logo_place_header/logo_place_header.css);
-@import url(../blocks/logo/_place/logo_place_footer/logo_place_footer.css);
+@import url(../blocks/logo/_place/logo_place_header.css);
+@import url(../blocks/logo/_place/logo_place_footer.css);
 @import url(../blocks/section-title/section-title_theme_dark/section-title_theme_dark.css);
 @import url(../blocks/section-subtitle/section-subtitle_theme_dark/section-subtitle_theme_dark.css);
-@import url(../blocks/table/_theme_dark/table__cell_theme_dark.css);
-@import url(../blocks/table/_theme_dark/table__heading_theme_dark.css);
-@import url(../blocks/table/_theme_dark/table__text_theme_dark.css);
-@import url(../blocks/table/_theme_dark/table_theme_dark.css);
-@import url(../blocks/footer/_column_content_copyright/footer__column_content_copyright.css);
+@import url(../blocks/table/_theme/table_theme_dark.css);
+@import url(../blocks/table/_theme/table__heading_theme_dark.css);
+@import url(../blocks/table/_theme/table__cell_theme_dark.css);
+@import url(../blocks/table/_theme/table__text_theme_dark.css);
+@import url(../blocks/footer/_content/footer__column_content_copyright.css);
