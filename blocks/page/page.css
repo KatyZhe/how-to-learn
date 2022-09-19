@@ -2,7 +2,6 @@
 .feynman__link:hover,
 .khan__buy-link:hover,
 .resources__link:hover,
-.footer__column-link:hover,
 .footer__column-link:hover {
   opacity: .5;
   transition: opacity 1s linear;
