@@ -13,4 +13,4 @@
 
 # Функциональность  
 
-[Ссылка на проект github pages]()
+[Ссылка на проект github pages](katyzhe.github.io/how-to-learn/)
